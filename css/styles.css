@@ -1,0 +1,11 @@
+.navbar{
+    margin-top: 2px;
+    box-shadow: 0 0 5px 2px rgb(108, 96, 96);
+    border-radius: 5px;
+}
+/* background-image: linear-gradient(direction, color-stop1, color-stop2, ...); */
+.login{
+    /* background-image: linear-gradient(to right rgb(251, 185, 43), rgb(234, 81, 25)) !important; */
+    background-image: linear-gradient(to right, rgb(234, 216, 19) , rgb(218, 35, 14));
+    
+}
